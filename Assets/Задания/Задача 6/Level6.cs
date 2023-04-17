@@ -9,11 +9,7 @@ public class Level6 : MonoBehaviour
     
     private float _speed = 7;
 
-    private void Start()
-    {
-        Instantiate(_obstacle);
-     
-    }
+    
 
     private void Update()
     {
